@@ -1,7 +1,7 @@
 ### What is it?
 Library to integrate .net core app with Grafana Loki.
 
-#How to run it? 
+# How to run it? 
 
 Just run the file called docker-compose.yaml :
 
